@@ -1,12 +1,4 @@
-public class Main {
- 
-    public static void main(String[] args){
- 
-        System.out.println("\"Ro'b'er\tto\\/\"");
-        System.out.println("(._.) ( l: ) ( .-. ) ( :l ) (._.)");
-        System.out.println("(^_-) (-_-) (-_^)");
-        System.out.println("(\"_\") (\'.\')");
- 
-    }
- 
-}
+print("\"Ro'b'er\tto\\/\"")#to print ("") using (\") & to print (\) using(\\) & to add 4 space using (\t)
+print("(._.) ( l: ) ( .-. ) ( :l ) (._.)")
+print("(^_-) (-_-) (-_^)")
+print("(\"_\") (\'.\')") #to print (') using (\')

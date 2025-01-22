@@ -1,0 +1,5 @@
+Date,Month,Year=map(int,input().split('/'))
+
+print("%02d/%02d/%02d"%(Month,Date,Year))#to print any number of digit(n) with 0 before it use (zero)n in format specifier
+print("%02d/%02d/%02d"%(Year,Month,Date))
+print("%02d-%02d-%02d"%(Date,Month,Year))

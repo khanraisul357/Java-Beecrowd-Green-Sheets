@@ -1,17 +1,11 @@
-import java.io.IOException;
- 
-public class Main {
- 
-    public static void main(String[] args) throws IOException {
- 
-       System.out.println("---------------------------------------");
-        System.out.println("|        Roberto                      |");
-        System.out.println("|                                     |");
-        System.out.println("|        5786                         |");
-        System.out.println("|                                     |");
-        System.out.println("|        UNIFEI                       |");
-        System.out.println("---------------------------------------");
- 
-    }
- 
-}
+print("---------------------------------------")
+print("|        Roberto                      |")
+print("|                                     |")
+print("|        5786                         |")
+print("|                                     |")
+print("|        UNIFEI                       |")
+print("---------------------------------------")
+
+
+
+
