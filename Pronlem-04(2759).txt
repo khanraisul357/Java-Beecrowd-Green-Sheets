@@ -1,7 +1,0 @@
-A=input()
-B=input()
-C=input()
-
-print("A = %s, B = %s, C = %s"%(A,B,C))#String Modulo Operator(%) Output Formatting method
-print("A = %s, B = %s, C = %s"%(B,C,A))
-print("A = %s, B = %s, C = %s"%(C,A,B))
