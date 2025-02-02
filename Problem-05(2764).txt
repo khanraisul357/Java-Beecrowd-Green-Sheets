@@ -1,0 +1,25 @@
+import java.util.Scanner;
+public class Main {
+ 
+    public static void main(String[] args){
+ 
+      Scanner i=new Scanner(System.in);
+
+      String date=i.nextLine();
+
+      String[] partsof_date=date.split("/");
+
+      String day=partsof_date[0];
+
+      String month=partsof_date[1];
+
+      String year=partsof_date[2];
+
+
+      System.out.println(month+"/"+day+"/"+year);
+      System.out.println(year+"/"+month+"/"+day);
+      System.out.println(day+"-"+month+"-"+year);
+ 
+    }
+ 
+}
